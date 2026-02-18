@@ -1,7 +1,6 @@
-# Text_Mining_-_Search
 
-Amazon Fine Food Reviews: Text Mining & Latent Semantic Analysis
-Text Mining Research Project | Master's Degree
+# Amazon Fine Food Reviews: Text Mining & Latent Semantic Analysis
+## Text Mining Research Project | Master's Degree
 This project processes over 500k consumer reviews to transform raw text into meaningful numerical representations. It compares Bag-of-Words (BoW) and TF-IDF vectorization techniques while evaluating dimensionality reduction via Truncated SVD.
 
 ## 1. Dataset Overview
